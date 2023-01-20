@@ -39,3 +39,22 @@ body {
     gap: 20px;
   }
 
+  .emoji {
+    display: flex;
+    flex-direction: column;
+  }
+
+ .icon {
+  display: flex;
+  justify-content: center;
+  order: -1;
+  padding-bottom: 10px;
+ }
+
+ .emoji h2 {
+  order: 0;
+ }
+ 
+ a {
+  margin-top: auto;
+ }
