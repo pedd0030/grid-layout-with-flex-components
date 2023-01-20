@@ -27,3 +27,15 @@ body {
   .icon {
     font-size: 4rem;
   }
+
+
+
+
+  /* Code I added */
+  
+  .emojis {
+    display: grid;
+    grid-template-columns: 25% 25%;
+    gap: 20px;
+  }
+
